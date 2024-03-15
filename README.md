@@ -21,7 +21,7 @@
 
 Para executar este projeto, você precisará:
 
-- Rust - Baixe e instale a última versão do Rust [Rust](https://www.rust-lang.org/tools/install)
+- Rust - Baixe e instale a última versão do [Rust](https://www.rust-lang.org/tools/install)
 - Cargo - O gerenciador de pacotes do Rust é instalado junto com o Rust.
 
 ## Instalação
