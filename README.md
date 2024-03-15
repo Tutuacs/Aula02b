@@ -1,6 +1,13 @@
-Projeto [Aula02b]
+# Projeto Aula02b
 
-    Este projeto tem o intúito de mostrar a implementação de classes(Structs) e traits(Interfaces), ele não está como o requisitado no PDF do trabalho, procurei fazer uma estrutura mais genérica assim como comentado em outras matérias (Banco de Dados), Existem somente as Structs(Classes) Estagiário e Funcionário, ambas fazem parte da Trait(Interface) Colaborador, porém, cada uma tem suas próprias funcionalidades e tratamentos nescessários para seu funcionamento, é possivel abrir a documentação do projeto, comentários usando 3 barras "///" servem para a documentação de projetos Rust, Aconselho a olhar a documentação do projeto seguindo as instruções abaixo.
+    Este projeto tem o intúito de mostrar a implementação de classes(Structs) e traits(Interfaces),
+     ele não está como o requisitado no PDF do trabalho, procurei fazer uma estrutura mais genérica
+      assim como comentado em outras matérias (Banco de Dados), Existem somente as Structs(Classes)
+       Estagiário e Funcionário, ambas fazem parte da Trait(Interface) Colaborador, porém, cada uma
+        tem suas próprias funcionalidades e tratamentos nescessários para seu funcionamento, é
+        possivel abrir a documentação do projeto, comentários usando 3 barras "///" servem para a
+         documentação de projetos Rust, Aconselho a olhar a documentação do projeto seguindo as
+         instruções abaixo.
 
     Passos rápidos ->
 
@@ -22,7 +29,7 @@ Para executar este projeto, você precisará:
 ### Clone este repositório:
 
 ```bash
-git clone https://github.com/[Tutuacs]/[Aula02b].git
+git clone https://github.com/Tutuacs/Aula02b.git
 ```
 
 #### Navegue para o diretório do projeto:
@@ -32,8 +39,6 @@ cd Aula02b
 ```
 
 ## Documentação
-
-A documentação do projeto está disponível em https://doc.rust-lang.org/beta/.
 
 ### Para gerar a documentação localmente:
 
@@ -51,9 +56,9 @@ Para executar o projeto:
 cargo run -q
 ```
 
-✉️ Contato
+# ✉️ Contato
 
-Se você tiver alguma dúvida ou sugestão, entre em contato comigo em [aasilva34@ucs.br] ou crie um issue no repositório.
+Se você tiver alguma dúvida ou sugestão, entre em contato comigo em aasilva34@ucs.br ou crie um issue no repositório.
 
 ✨ Recursos Adicionais
 
