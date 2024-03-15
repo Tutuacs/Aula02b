@@ -15,14 +15,14 @@
     2 - Clone o repositório
     3 - Acesse a pasta do clonada e use os comandos no terminal
     4 - Gerar documentação do projeto "cargo doc --open"
-    5 - Rodar projeto  "cargo run -q" (Deve aparecer um Warning por conta da pasta começar com letra maiúscula)
+    5 - Rodar projeto "cargo run -q"(Aparecerá um Warning pela pasta começar com letra maiúscula)
 
 ## Pré-requisitos
 
 Para executar este projeto, você precisará:
 
-    Rust: Baixe e instale a última versão do Rust [Aqui](https://www.rust-lang.org/tools/install)
-    Cargo: O gerenciador de pacotes do Rust é instalado junto com o Rust.
+- Rust - Baixe e instale a última versão do Rust [Rust](https://www.rust-lang.org/tools/install)
+- Cargo - O gerenciador de pacotes do Rust é instalado junto com o Rust.
 
 ## Instalação
 
